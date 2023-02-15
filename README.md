@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KuyaMecky
 - 👀 I’m interested in Creating and discovering new things specially in programming ^_^
-- 🌱 I’m currently learning django, swift, node js, intermidiate C#,java,python and xamarin.
+- 🌱 I’m currently learning swift, React ,Vue, node js, intermidiate C#, java, Deep/Mchine Learning, python frameworks and xamarin.
 - 💞️ I’m looking to collaborate on game,web and 3D/multimedia development.
 - 📫 you can message me #tallada88@gmail.com - #www.facebook.com/KuyaMec
 

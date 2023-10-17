@@ -2,7 +2,6 @@
 
 **`Full-Stack Developer`**
 
-Edit mo na lang 'to beh, description kineme, ganon.
 
 ---
 

@@ -4,15 +4,14 @@
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
 **`Full-Stack Developer`**
----
 ## About Me
 
- I'm a passionate and dedicated **Full-Stack Developer** with a strong background in a wide range of programming languages and tools. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Angular and React to back-end technologies like Java, Spring, and Node.js. I'm also well-versed in version control using Git, and I'm a Linux enthusiast. Let's collaborate and build amazing software together! 
----
+ '' I'm a passionate and dedicated **Full-Stack Developer** with a strong background in a wide range of programming languages and tools. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Angular and React to back-end technologies like Java, Spring, and Node.js. I'm also well-versed in version control using Git, and I'm a Linux enthusiast. Let's collaborate and build amazing software together! 
 
 # Languages and Tools
----
+
 
 ### 🧰 Languages and Tools
 

@@ -14,7 +14,7 @@
 
  '' I'm a passionate and dedicated **Full-Stack Developer** with a strong background in a wide range of programming languages and tools. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Angular and React to back-end technologies like Java, Spring, and Node.js. I'm also well-versed in version control using Git, and I'm a Linux enthusiast. Let's collaborate and build amazing software together! 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuyamecky&label=Profile%20views&color=0e75b6&style=flat" alt="kuyamecky" /> **`Full-Stack Developer`** </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuyamecky&label=Profile%20views&color=0e75b6&style=flat" alt="kuyamecky" />  </p> **`Full-Stack Developer`**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuyamecky" alt="kuyamecky" /></a> </p>
 

@@ -8,13 +8,13 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-**`Full-Stack Developer`**
-<h3 align="center">A passionate frontend developer from Philippines</h3> 
+
+<h3 align="center">A passionate FullStack developer from Philippines</h3> 
 ## About Me
 
  '' I'm a passionate and dedicated **Full-Stack Developer** with a strong background in a wide range of programming languages and tools. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Angular and React to back-end technologies like Java, Spring, and Node.js. I'm also well-versed in version control using Git, and I'm a Linux enthusiast. Let's collaborate and build amazing software together! 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuyamecky&label=Profile%20views&color=0e75b6&style=flat" alt="kuyamecky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuyamecky&label=Profile%20views&color=0e75b6&style=flat" alt="kuyamecky" /> **`Full-Stack Developer`** </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuyamecky" alt="kuyamecky" /></a> </p>
 
@@ -42,14 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuyamecky&show_icons=true&locale=en" alt="kuyamecky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuyamecky&" alt="kuyamecky" /></p>
-#
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
-### 📊 Stats
 
-![Kuya Mecky's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuyaMecky&show_icons=true&theme=gruvbox)
-
- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
-#
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
